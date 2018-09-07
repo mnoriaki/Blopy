@@ -102,3 +102,22 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# git cloned directories
+blockly
+webrepl
+
+# copied files
+Blopy/FileSaver.js
+Blopy/b.msg/
+Blopy/blockly_compressed.js
+Blopy/blocks_compressed.js
+Blopy/icon.png
+Blopy/icons.png
+Blopy/javascript_compressed.js
+Blopy/media/
+Blopy/msg/
+Blopy/python_compressed.js
+Blopy/storage.js
+Blopy/style.css
+Blopy/term.js
